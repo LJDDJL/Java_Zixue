@@ -29,7 +29,7 @@ class Person{
     }
 
 }
-public class muban{
+public class 1_Person{
     public static void main(String[] args){
         Person Luo_Junyuan=new Person("罗均元",30);
         Luo_Junyuan.tell();
