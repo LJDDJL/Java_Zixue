@@ -92,7 +92,7 @@ class Student{      //创造一个student类
 
 
 //测试调用类别中的方法是否可行
-public class muban{
+public class 1_Person_Student{
     public static void main(String[] args){
         Student stu=new Student("罗均元","12",95,89,96);
         stu.print();
