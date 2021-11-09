@@ -66,7 +66,7 @@ class Book{
     }
 }
 
-public class muban {
+public class personAndbook_oneByone {
     public static void main(String[] args){
         Person student=new Person("知行7舍",19);
         Book bk=new Book("《动物世界》",100);
