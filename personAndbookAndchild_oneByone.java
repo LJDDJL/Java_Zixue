@@ -77,7 +77,7 @@ class Book{
 
 
 
-public class muban {
+public class personAndbookAndchild_oneByone {
     public static void main(String[] args){
         Person father=new Person("刘金东",18);     //实例化Person类为father
         Person child=new Person("罗钧元",19);      //实例化Person类为child
